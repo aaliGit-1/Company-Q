@@ -7,7 +7,7 @@ Input: Array: {'abc','bca','cdf'}<br>
 Output: 2<br>
 
 Eygds2: Traingle Equality Triplet<br>
-Count the number of triplets present and those triplet can only become valid if it satisfies the Triangle Equality. Triangle Equality means the sum of the two elements is greater than the third element. Note: Triplet must contain numbers in ascending order.<br>
+>Count the number of triplets present and those triplet can only become valid if it satisfies the Triangle Equality. Triangle Equality means the sum of the two elements is greater than the third element. Note: Triplet must contain numbers in ascending order.<br>
 Input: Array: {3, 3, 4, 5}<br>
 Output: 1<br>
 
