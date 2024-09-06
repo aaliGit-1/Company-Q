@@ -1,6 +1,16 @@
 # Company-Q
 Practice Questions <br>
 Questions asked by Company during Placements<br>
+Eygds1: Count number of Anagrams<br>
+>Check whether the elements in the array is anagram or not. If yes, then count how many anagrams are present in the array.<br>
+Input: Array: {'abc','bca','cdf'}<br>
+Output: 2<br>
+
+Eygds2: Traingle Equality Triplet<br>
+Count the number of triplets present and those triplet can only become valid if it satisfies the Triangle Equality. Triangle Equality means the sum of the two elements is greater than the third element. Note: Triplet must contain numbers in ascending order.<br>
+Input: Array: {3, 3, 4, 5}<br>
+Output: 1<br>
+
 UST_PQ: Nearest Smaller Tower<br>
 >Given an array representing the heights of towers, the task is to find, for each tower, the index of the nearest tower that is shorter than it. The search for a shorter tower can be performed by looking to the left and right sides of each tower.<br>
 Input : Array : {4, 8, 3, 5, 3} <br>
