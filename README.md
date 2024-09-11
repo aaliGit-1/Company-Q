@@ -16,6 +16,16 @@ Eygds2: Traingle Equality Triplet<br>
 Input: Array: {3, 3, 4, 5}<br>
 Output: 1<br>
 
+GyanSYS:<br>
+>Find the unique way to make the combination of colors/paints given.<br>
+Input:<br>
+input1: 5 (number of colors i.e., {1,2,3,4,5} )<br>
+input2: 2 (number of pairing can be done)<br>
+Output:<br>
+15 i.e.,
+(1,2),(1,3),(1,4),(1,5),(2,3),(2,4),(2,5),(3,4),(3,5),(4,5) = 10<br>
+(1),(2),(3),(4),(5) = 5<br>  so, 10+5=15<br>
+
 UST_PQ: Nearest Smaller Tower<br>
 >Given an array representing the heights of towers, the task is to find, for each tower, the index of the nearest tower that is shorter than it. The search for a shorter tower can be performed by looking to the left and right sides of each tower.<br>
 Input : Array : {4, 8, 3, 5, 3} <br>
