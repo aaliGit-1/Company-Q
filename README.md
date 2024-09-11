@@ -22,7 +22,7 @@ Input:<br>
 input1: 5 (number of colors i.e., {1,2,3,4,5} )<br>
 input2: 2 (number of pairing can be done)<br>
 Output:<br>
-15 i.e.,
+15 i.e.,<br>
 (1,2),(1,3),(1,4),(1,5),(2,3),(2,4),(2,5),(3,4),(3,5),(4,5) = 10<br>
 (1),(2),(3),(4),(5) = 5<br>  so, 10+5=15<br>
 
