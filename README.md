@@ -40,7 +40,7 @@ Array: {7,4,8,2,9}<br>
 Output: 3 (as 8 and 9 are greater than previous element as well as 7 as we need to include 1st element)
 
 PS3:<br>
-At a fun fair, a street vendor is selling different colors of balloons. He sells N number of different colors of balloons.<br>
+>At a fun fair, a street vendor is selling different colors of balloons. He sells N number of different colors of balloons.<br>
 The task is to find the odd color of the balloon which is present odd number of times in the bunch of balloons.<br>
 Note: If there is more than one color which is odd in number, then the first color in the array which is present odd number <br>
 of times is displayed. The colors of the balloons can all be either upper case or lower case in the array. If all the inputs<br>
