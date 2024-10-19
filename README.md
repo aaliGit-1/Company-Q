@@ -26,6 +26,29 @@ Output:<br>
 (1,2),(1,3),(1,4),(1,5),(2,3),(2,4),(2,5),(3,4),(3,5),(4,5) = 10<br>
 (1),(2),(3),(4),(5) = 5<br>  so, 10+5=15<br>
 
+PS1:<br>
+>Ritik wants a magic board, which displays a character for a corresponding number for his science project.<br> 
+Help him to develop such an application. Assume the number of inputs should be always 4.<br>
+Input: 65, 66, 67, 68<br>
+Output: 65-A, 66-B, 67-C, 68-D<br>
+
+PS2:<br>
+>Given an integer array of size N. The task is to find the count of elements whose value is greater than all of its prior<br>
+elements. Note: 1st element of the array should be considered in the count of the result.<br>
+Input: <br>
+Array: {7,4,8,2,9}<br>
+Output: 3 (as 8 and 9 are greater than previous element as well as 7 as we need to include 1st element)
+
+PS3:<br>
+At a fun fair, a street vendor is selling different colors of balloons. He sells N number of different colors of balloons.<br>
+The task is to find the odd color of the balloon which is present odd number of times in the bunch of balloons.<br>
+Note: If there is more than one color which is odd in number, then the first color in the array which is present odd number <br>
+of times is displayed. The colors of the balloons can all be either upper case or lower case in the array. If all the inputs<br>
+are even in number, display the message "All are even".<br>
+Input: N: 7<br>
+arr[]={r, g, b, b, g, y, y}<br>
+Output: r (as red is the only color which is present odd number of times)
+
 UST_PQ: Nearest Smaller Tower<br>
 >Given an array representing the heights of towers, the task is to find, for each tower, the index of the nearest tower that is shorter than it. The search for a shorter tower can be performed by looking to the left and right sides of each tower.<br>
 Input : Array : {4, 8, 3, 5, 3} <br>
